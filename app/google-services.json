@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "927152010737",
+    "project_id": "untilfailure-c53f3",
+    "storage_bucket": "untilfailure-c53f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927152010737:android:a924fa330161bde3798050",
+        "android_client_info": {
+          "package_name": "fr.isen.charabot.untilfailure"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-YVCCoT7blugH9UZ4MiHjzVDRui-M0o8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
